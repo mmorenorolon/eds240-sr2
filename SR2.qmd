@@ -1,6 +1,6 @@
 ---
 title: "Mid-course Reflection (SR #2)"
-author: "Your name"
+author: "Melannie Moreno Rolón"
 date: 2026-02-06
 ---
 
@@ -12,37 +12,37 @@ date: 2026-02-06
 
   - [ ] **1. How have you progressed towards your learning goals for this course?**
     
-    Your answer here
+    I think I have made solid progress toward my learning goals in this course. At the beginning, I wanted to become more comfortable choosing appropriate visualizations and clearly communicating insights through plots, rather than just producing figures that look right. Over time, I have become more intentional about design choice and clarity, and I feel more confident explaining why a particular visualization works for a given question. 
     
   - [ ] **2. What skills are you proud of developing?**
     
-    Your answer here
+    I’m especially proud of developing stronger visualization design skills and a better understanding of how to tailor plots to different audiences and purposes. I’ve improved my ability to work with different plot types, refine aesthetics thoughtfully, and iterate on visualizations based on feedback. I’m also more comfortable troubleshooting plotting issues and refining code to make my visuals cleaner and more effective.
     
   - [ ] **3. If you've needed help, how have you sought it out? If you haven't sought out help, why not?** 
         
-    Your answer here
+    When I’ve needed help, I’ve mainly relied on documentation, examples from class, and revisiting plots I’ve created in the past to adapt them to new contexts. Comparing earlier work to current assignments has helped me recognize patterns, common mistakes, and areas where I’ve improved.
     
   - [ ] **4. Looking forward, how have your learning goals changed? Have they stayed the same?** 
         
-    Your answer here
+    My learning goals have stayed mostly the same. Instead of just learning how to create a wide range of visualizations, I’m now more focused on using them strategically. I want to continue improving how I justify visualization choices and how I connect visuals back to broader questions or stories.
     
   - [ ] **5. What topics have excited you the most (so far)? Have you spent time or efforts outside of class and / or the assignments diving deeper into any of these topics? If yes, what did you learn?** 
         
-    Your answer here
+    I’ve been most excited by learning how different visualization types can shape interpretation and emphasize different aspects of the data. Outside of class, I’ve spent time experimenting with different plot designs and aesthetics to see how small changes affect their readability. Doing this has helped me better understand how design choices can either clarify or mislead the viewer.
 
 ## (Optional) Share any feedback you might have about the class
     
   - [ ] **1. How would you change the structure of this course, if at all? If you wouldn't, what in particular about the structure has been working well for you?** 
         
-    Your answer here
+    The structure of the course has worked well for me overall. I appreciate the balance between learning concepts and applying them directly through assignments. I like that the iterative nature of the work encourages experimentation and improvement rather than focusing only on a final product.
     
   - [ ] **2. Is there anything about this course that you are really enjoying? Anything that isn't working for you?** 
         
-    Your answer here
+    I’ve really enjoyed the class' emphasis on visualization as a communication tool other than just a technical skill. The class' focus on design and interpretation has been especially helpful. At times, the workload can feel dense, but it’s manageable and feels aligned with the learning objectives.
     
   - [ ] **3. What else would you like me to know about your experience in the course thus far?** 
         
-    Your answer here
+    This course has helped me think more critically about how I present data and why those choices matter. I feel like the skills I’m developing are directly applicable beyond the classroom.
 
 
     
